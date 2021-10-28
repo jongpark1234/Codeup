@@ -1,0 +1,1 @@
+for i in range(97, ord(input()) + 1): print(chr(i), end=' ')
