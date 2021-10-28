@@ -1,0 +1,1 @@
+a, b = map(float, input().split());num = a / b;print(format(num, '.3f'))
