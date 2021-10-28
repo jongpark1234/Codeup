@@ -1,0 +1,5 @@
+weather = int(input())
+if weather <= 2 or weather == 12: print('winter')
+elif weather <= 5: print('spring')
+elif weather <= 8: print('summer')
+else: print('fall')
